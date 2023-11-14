@@ -1,0 +1,47 @@
+###   Gradle    ###
+.gradle
+
+###   IntelliJ   ###
+.idea
+*.iml
+*.iws
+*.ipr
+
+
+###   Eclipse   ###
+.settings
+.classpath
+.project
+
+###   Visual Studio Code   ###
+/.vscode/
+
+###   Build   ###
+/out/
+/bin/
+build
+Build
+bin/
+
+/src/*/out/
+/src/*/bin/
+/src/main/jetresources/
+/src/test/gen/**
+/src/main/resources/api/**
+/src/main/resources/html/**
+/src/*/out/
+
+###   SONAR   ###
+.scannerwork/
+
+/bea-de/jet
+
+###   JAVA   ###
+*.hprof
+
+###  DOCS ####
+docs/*.ldb
+
+### Build Debug ###
+build.txt
+

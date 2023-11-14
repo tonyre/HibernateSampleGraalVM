@@ -1,0 +1,69 @@
+{
+  "resources":{
+  "includes":[{
+    "pattern":"\\QMETA-INF/services/ch.qos.logback.classic.spi.Configurator\\E"
+  }, {
+    "pattern":"\\QMETA-INF/services/java.lang.System$LoggerFinder\\E"
+  }, {
+    "pattern":"\\QMETA-INF/services/java.net.spi.URLStreamHandlerProvider\\E"
+  }, {
+    "pattern":"\\QMETA-INF/services/java.time.zone.ZoneRulesProvider\\E"
+  }, {
+    "pattern":"\\QMETA-INF/services/javax.xml.stream.XMLEventFactory\\E"
+  }, {
+    "pattern":"\\QMETA-INF/services/org.hibernate.boot.model.FunctionContributor\\E"
+  }, {
+    "pattern":"\\QMETA-INF/services/org.hibernate.boot.model.TypeContributor\\E"
+  }, {
+    "pattern":"\\QMETA-INF/services/org.hibernate.boot.registry.selector.StrategyRegistrationProvider\\E"
+  }, {
+    "pattern":"\\QMETA-INF/services/org.hibernate.boot.registry.selector.spi.DialectSelector\\E"
+  }, {
+    "pattern":"\\QMETA-INF/services/org.hibernate.boot.spi.AdditionalJaxbMappingProducer\\E"
+  }, {
+    "pattern":"\\QMETA-INF/services/org.hibernate.boot.spi.MetadataBuilderFactory\\E"
+  }, {
+    "pattern":"\\QMETA-INF/services/org.hibernate.boot.spi.MetadataBuilderInitializer\\E"
+  }, {
+    "pattern":"\\QMETA-INF/services/org.hibernate.boot.spi.MetadataContributor\\E"
+  }, {
+    "pattern":"\\QMETA-INF/services/org.hibernate.boot.spi.MetadataSourcesContributor\\E"
+  }, {
+    "pattern":"\\QMETA-INF/services/org.hibernate.boot.spi.SessionFactoryBuilderFactory\\E"
+  }, {
+    "pattern":"\\QMETA-INF/services/org.hibernate.engine.jdbc.dialect.spi.DialectResolver\\E"
+  }, {
+    "pattern":"\\QMETA-INF/services/org.hibernate.engine.transaction.jta.platform.spi.JtaPlatformProvider\\E"
+  }, {
+    "pattern":"\\QMETA-INF/services/org.hibernate.event.spi.EventEngineContributor\\E"
+  }, {
+    "pattern":"\\QMETA-INF/services/org.hibernate.id.factory.spi.GenerationTypeStrategyRegistration\\E"
+  }, {
+    "pattern":"\\QMETA-INF/services/org.hibernate.integrator.spi.Integrator\\E"
+  }, {
+    "pattern":"\\QMETA-INF/services/org.hibernate.service.spi.ServiceContributor\\E"
+  }, {
+    "pattern":"\\QMETA-INF/services/org.hibernate.service.spi.SessionFactoryServiceContributor\\E"
+  }, {
+    "pattern":"\\QMETA-INF/services/org.jboss.logging.LoggerProvider\\E"
+  }, {
+    "pattern":"\\QMETA-INF/services/org.slf4j.spi.SLF4JServiceProvider\\E"
+  }, {
+    "pattern":"\\Qhibernate.properties\\E"
+  }, {
+    "pattern":"\\Qlogback-test.scmo\\E"
+  }, {
+    "pattern":"\\Qlogback-test.xml\\E"
+  }, {
+    "pattern":"\\Qlogback.scmo\\E"
+  }, {
+    "pattern":"\\Qlogback.xml\\E"
+  }, {
+    "pattern":"\\Qorg/h2/util/data.zip\\E"
+  }, {
+    "pattern":"\\Qorg/hibernate/hibernate-configuration-3.0.dtd\\E"
+  }, {
+    "pattern":"\\Qorg/hibernate/hibernate-mapping-3.0.dtd\\E"
+  }]},
+  "bundles":[]
+}
