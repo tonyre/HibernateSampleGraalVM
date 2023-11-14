@@ -2,6 +2,13 @@
 
 Sample project to reproduce compilation issues with GraalVM in combination with Hibernate.
 
+> :warning:  **This sample is just a reproducer - It's not working yet!**
+ 
+## Setup
+java version "21.0.1" 2023-10-17
+Java(TM) SE Runtime Environment Oracle GraalVM 21.0.1+12.1 (build 21.0.1+12-jvmci-23.1-b19)
+Java HotSpot(TM) 64-Bit Server VM Oracle GraalVM 21.0.1+12.1 (build 21.0.1+12-jvmci-23.1-b19, mixed mode, sharing)
+
 
 ## Deployment Steps
 ### 1. Generate Shadow (all-in-one) Jar
