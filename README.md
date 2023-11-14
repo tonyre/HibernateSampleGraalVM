@@ -9,7 +9,8 @@ Sample project to reproduce compilation issues with GraalVM in combination with 
 - java version "21.0.1" 2023-10-17
 - Java(TM) SE Runtime Environment Oracle GraalVM 21.0.1+12.1 (build 21.0.1+12-jvmci-23.1-b19)
 - Java HotSpot(TM) 64-Bit Server VM Oracle GraalVM 21.0.1+12.1 (build 21.0.1+12-jvmci-23.1-b19, mixed mode, sharing)
-
+- Gradle wrapper: gradle-8.2-bin
+- Gradle GraalVM plugin: 'org.graalvm.buildtools.native' version '0.9.28'
 
 ## Deployment Steps
 ### 1. Generate Shadow (all-in-one) Jar
